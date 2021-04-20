@@ -1,0 +1,6 @@
+@import url(./input-wrapper.css);
+@import url(./input-register.css);
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}

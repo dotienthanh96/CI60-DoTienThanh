@@ -1,0 +1,16 @@
+.register-form .register-btn {
+    width: 60%;
+    height: 30px;
+    color: rosybrown;
+    background-color: springgreen;
+    border: 1px solid springgreen;
+    border-radius: 3px;
+}
+.register-form .title {
+    text-align: center;
+    margin: 30px 0px;
+}
+.register-form .sub-title {
+    margin-bottom: 10px;
+    text-align: center;
+}
