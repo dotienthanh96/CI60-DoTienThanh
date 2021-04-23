@@ -1,0 +1,8 @@
+Firebase Authentication hay còn gọi là xác thực firebase cung cấp dịch vụ phụ trợ cho developers,
+ SDK dễ sử dụng và thư viện UI được tạo sẵn để xác thực người dùng với ứng dụng của bạn.
+ Công dụng:
+ Nó hỗ trợ xác thực bằng mật khẩu, số điện thoại, nhà cung cấp nhận dạng liên kết phổ biến như Google, Facebook và Twitter, v.v. 
+ Xác thực Firebase tích hợp chặt chẽ với các dịch vụ Firebase khác và nó thúc đẩy các tiêu chuẩn công nghiệp như OAuth 2.0 
+ và OpenID Connect, do đó có thể dễ dàng tích hợp với phụ trợ tùy chỉnh của bạn.
+Cách cài đặt: 
+https://viblo.asia/p/cai-dat-firebase-authenticantion-bang-react-trong-5-phut-naQZRpe05vx
